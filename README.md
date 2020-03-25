@@ -80,15 +80,15 @@ Los servicios utilizados en nube fueron:
 | ------ | ------ | 
 | $ 103.45 | $ 1241.35 |
 
-> Precio basado en servicios por demanda.
-> Precio en USD.
-> Meses de 30 días.
+> Precio basado en servicios por demanda.<br/>
+> Precio en USD. <br/>
+> Meses de 30 días. <br/>
 
 ## Documentación de monitoreo y gestión
 Para implementar un sistema de monitoreo de operación que nos brindara estadísticas e información pertinente para tomar acciones de mejoramiento en la aplicación utilizamos dos plataformas: CloudFlare y AWS CloudWatch. 
 
 ## Documentación de recuperación ante desastres
-En la parte de backups y recuperación se activó la opción de backups automáticos en la base de datos, control de versiones en el s3 y copiar una carpeta de un bucket a otro en s3
+En la parte de backups y recuperación se activó la opción de backups automáticos en la base de datos, control de versiones en el s3 y copiar una carpeta de un bucket a otro en s3.
 
 ## Documentación adicional
 > Nota: Para obtener información adicional por favor visitar el documento base
