@@ -92,4 +92,4 @@ En la parte de backups y recuperación se activó la opción de backups automát
 
 ## Documentación adicional
 > Nota: Para obtener información adicional por favor visitar el documento base
-> Documento: https://github.com/alejocano22/TETproject2/tree/master/documentos
+> Documento: https://github.com/alejocano22/TETproject2/blob/master/Documentos/TET.Proyecto2.Grupo1.pdf
