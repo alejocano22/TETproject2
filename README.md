@@ -2,18 +2,18 @@
 ## Estudiantes y roles
 Alejandro Cano Munera 
 > email: acanom@eafit.edu.co <br/>
-> Rol: Líder
-> QA: Rendimiento
+> Rol: Líder <br/>
+> QA: Rendimiento <br/>
 
 Luis Javier Palacio Mesa 
-> email: ljpalaciom@eafit.edu.co
-> Rol: Programador
-> QA: Disponibilidad
+> email: ljpalaciom@eafit.edu.co <br/>
+> Rol: Programador <br/>
+> QA: Disponibilidad <br/>
 
 Sebastián Giraldo Gómez 
-> email: sgiraldog@eafit.edu.co
-> Rol: Analista
-> QA: Seguridad
+> email: sgiraldog@eafit.edu.co <br/>
+> Rol: Analista <br/>
+> QA: Seguridad <br/>
 
 ## Requisitos 
 # Disponibilidad: 
