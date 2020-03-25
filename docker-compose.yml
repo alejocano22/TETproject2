@@ -1,0 +1,31 @@
+version: '2'
+services:
+  moodle:
+    container_name: moodle-container
+    restart: always
+    image: 'bitnami/moodle:3'
+    environment:
+      - MARIADB_HOST=dbmoodle.crbs80gvnvpm.us-east-1.rds.amazonaws.com
+      - MARIADB_PORT_NUMBER=3306
+      - MOODLE_DATABASE_USER=bn_moodle
+      - MOODLE_DATABASE_NAME=dbmoodle
+      - MOODLE_DATABASE_PASSWORD=cano1999
+      - MOODLE_SKIP_INSTALL=yes
+    ports:
+      - '80:80'
+      - '443:443'
+    volumes:
+      - './moodle_data:/bitnami'
+
+    depends_on:
+      - s3vol
+  s3vol:
+    container_name: s3-container
+    restart: always
+    image: elementar/s3-volume
+    command: /data s3://s3-telematic-software
+    volumes:
+      - './moodle_data:/data'
+      - /data/moodle/moodledata
+    env_file:
+      - 'credentialsaws/s3-variables.env'
