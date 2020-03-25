@@ -1,7 +1,7 @@
 # Proyecto 2 - Tópicos especiales en telemática
 ## Estudiantes y roles
 Alejandro Cano Munera 
-> email: acanom@eafit.edu.co
+> email: acanom@eafit.edu.co <br/>
 > Rol: Líder
 > QA: Rendimiento
 
