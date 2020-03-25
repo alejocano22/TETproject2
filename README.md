@@ -91,5 +91,5 @@ Para implementar un sistema de monitoreo de operación que nos brindara estadís
 En la parte de backups y recuperación se activó la opción de backups automáticos en la base de datos, control de versiones en el s3 y copiar una carpeta de un bucket a otro en s3.
 
 ## Documentación adicional
-> Nota: Para obtener información adicional por favor visitar el documento base
+> Nota: Para obtener información adicional por favor visitar el documento base <br/>
 > Documento: https://github.com/alejocano22/TETproject2/blob/master/Documentos/TET.Proyecto2.Grupo1.pdf
