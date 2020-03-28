@@ -1,0 +1,4 @@
+Test de Jmeter
+Usuarios (Hilos) por defecto: 2000
+Tiempo de subida por defecto: 60 segundos
+Dominio por defecto: dominio.ml
