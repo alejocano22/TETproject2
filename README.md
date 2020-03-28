@@ -83,6 +83,7 @@ Los servicios utilizados en nube fueron:
 > Precio basado en servicios por demanda.<br/>
 > Precio en USD. <br/>
 > Meses de 30 días. <br/>
+> Precios tomados en Marzo 24/2020. <br/>
 
 ## Documentación de monitoreo y gestión
 Para implementar un sistema de monitoreo de operación que nos brindara estadísticas e información pertinente para tomar acciones de mejoramiento en la aplicación utilizamos dos plataformas: CloudFlare y AWS CloudWatch. 
